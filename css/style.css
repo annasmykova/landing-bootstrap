@@ -132,8 +132,6 @@ blockquote span{
 .btn.btn-dark:hover{
 	background-color: rgba(51, 51, 51, .9);
 }
-
-
 .btn.btn-xs{
 	padding: 6px 15px;
 	background-color: rgba(0, 0, 0, .1);
@@ -217,7 +215,6 @@ textarea.form-control{
 	position: fixed;
 	width: 100%;
 	z-index: 999;
-	
 }
 .header-nav li{
 	line-height: 21px;
@@ -312,9 +309,6 @@ textarea.form-control{
 	margin-top: 15px;
 	color: #999999;
 }
-
-
-
 /*footer end*/
 /*DEFAULT COMPONENT END*/
 
@@ -331,13 +325,11 @@ textarea.form-control{
 	height: 100%;
 	margin-left: -4px;
 	vertical-align: middle;
-
 }
 .inner-content{
 	vertical-align: middle;
 	display: inline-block;
 	text-align: center;
-
 }
 .inner-content h6{
 	font-family: 'Dosis', sans-serif;
